@@ -1,0 +1,102 @@
+[
+  {
+    "luggage": 2,
+    "manufacturer": "Seat",
+    "model": "Ibiza",
+    "plateNumber": "KRK65555",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Audi",
+    "model": "A7",
+    "plateNumber": "KRK45621",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "BMW",
+    "model": "M5",
+    "plateNumber": "KRK12345",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Mercedes",
+    "model": "S-class",
+    "plateNumber": "KRK48923",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Range Rover",
+    "model": "A5",
+    "plateNumber": "KRK48232",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Seat",
+    "model": "Ibiza",
+    "plateNumber": "KRK65555",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Audi",
+    "model": "A7",
+    "plateNumber": "KRK45621",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "BMW",
+    "model": "M5",
+    "plateNumber": "KRK12345",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Mercedes",
+    "model": "S-class",
+    "plateNumber": "KRK48923",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  },
+  {
+    "luggage": 2,
+    "manufacturer": "Range Rover",
+    "model": "A5",
+    "plateNumber": "KRK48232",
+    "seats": 4,
+    "sportLuggage": 0,
+    "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
+    "wheelchairs": 0
+  }
+]
