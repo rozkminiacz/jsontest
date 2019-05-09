@@ -27,7 +27,6 @@
     "seats": 4,
     "sportLuggage": 0,
     "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
-    "wheelchairs": 0
   },
   {
     "luggage": 2,
@@ -47,7 +46,7 @@
     "seats": 4,
     "sportLuggage": 0,
     "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
-    "wheelchairs": 0
+    "wheelchairs": 1
   },
   {
     "luggage": 2,
@@ -75,7 +74,6 @@
     "model": "M5",
     "plateNumber": "KRK12345",
     "seats": 4,
-    "sportLuggage": 0,
     "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
     "wheelchairs": 0
   },
@@ -85,7 +83,7 @@
     "model": "S-class",
     "plateNumber": "KRK48923",
     "seats": 4,
-    "sportLuggage": 0,
+    "sportLuggage": 2,
     "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
     "wheelchairs": 0
   },
@@ -97,6 +95,6 @@
     "seats": 4,
     "sportLuggage": 0,
     "uuid": "dc56a10c-472b-4dda-9846-dd821d1e5e51",
-    "wheelchairs": 0
+    "wheelchairs": 1
   }
 ]
